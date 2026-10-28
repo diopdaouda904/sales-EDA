@@ -1,4 +1,4 @@
-# 🛒 Supermarket Sales — Exploratory Data Analysis
+# 🛒 Supermarket Sales - Exploratory Data Analysis
 
 ## Description
 Analyse exploratoire des données de ventes d'un supermarché 
